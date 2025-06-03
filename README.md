@@ -1,4 +1,4 @@
-# English Conversation Practice Platform
+# English Conversation Assistant
 
 ## Overview
 
